@@ -2,7 +2,7 @@
 
 Projeto utilizando **.NET 5 Preview** com exemplo de código utilizado para ler e adicionar código novo em tempo de compilação.
 
-Link Vídeo: [PampaDevs - Criando uma API Restful com .NET Core 3.1 e Swagger](https://www.youtube.com/watch?v=E80r_14Gk3I)
+Link Vídeo: [PampaNews - Source Generator Preview](https://www.youtube.com/watch?v=E80r_14Gk3I)
 
 ### Requisitos
 * [Visual Studio 2019 Preview]( https://visualstudio.microsoft.com/pt-br/vs/preview/)
