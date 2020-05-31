@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceCodeGenerator", "SourceCodeGenerator\SourceCodeGenerator.csproj", "{4DB395FA-3FBD-4174-A3B5-BE6AA8C1C507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestSourceCodeGenerator", "TestSourceCodeGenerator\TestSourceCodeGenerator.csproj", "{62E37A2D-0FE0-4BF7-9300-37D919CD4009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DB395FA-3FBD-4174-A3B5-BE6AA8C1C507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DB395FA-3FBD-4174-A3B5-BE6AA8C1C507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DB395FA-3FBD-4174-A3B5-BE6AA8C1C507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DB395FA-3FBD-4174-A3B5-BE6AA8C1C507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62E37A2D-0FE0-4BF7-9300-37D919CD4009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62E37A2D-0FE0-4BF7-9300-37D919CD4009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62E37A2D-0FE0-4BF7-9300-37D919CD4009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62E37A2D-0FE0-4BF7-9300-37D919CD4009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {516FA766-FC6C-4A98-83BD-0E783F49B3EA}
+	EndGlobalSection
+EndGlobal
